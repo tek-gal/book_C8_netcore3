@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/galina/Документы/c#/book_C8_netcore3/Chapter03/CastingConverting/CastingConverting.csproj": {}
+  },
+  "projects": {
+    "/home/galina/Документы/c#/book_C8_netcore3/Chapter03/CastingConverting/CastingConverting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/galina/Документы/c#/book_C8_netcore3/Chapter03/CastingConverting/CastingConverting.csproj",
+        "projectName": "CastingConverting",
+        "projectPath": "/home/galina/Документы/c#/book_C8_netcore3/Chapter03/CastingConverting/CastingConverting.csproj",
+        "packagesPath": "/home/galina/.nuget/packages/",
+        "outputPath": "/home/galina/Документы/c#/book_C8_netcore3/Chapter03/CastingConverting/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/galina/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

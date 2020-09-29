@@ -1,0 +1,13 @@
+/home/galina/Документы/c#/book_C8_netcore3/Chapter02/Arguments/bin/Debug/netcoreapp3.1/Arguments
+/home/galina/Документы/c#/book_C8_netcore3/Chapter02/Arguments/bin/Debug/netcoreapp3.1/Arguments.deps.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter02/Arguments/bin/Debug/netcoreapp3.1/Arguments.runtimeconfig.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter02/Arguments/bin/Debug/netcoreapp3.1/Arguments.runtimeconfig.dev.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter02/Arguments/bin/Debug/netcoreapp3.1/Arguments.dll
+/home/galina/Документы/c#/book_C8_netcore3/Chapter02/Arguments/bin/Debug/netcoreapp3.1/Arguments.pdb
+/home/galina/Документы/c#/book_C8_netcore3/Chapter02/Arguments/obj/Debug/netcoreapp3.1/Arguments.csprojAssemblyReference.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter02/Arguments/obj/Debug/netcoreapp3.1/Arguments.AssemblyInfoInputs.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter02/Arguments/obj/Debug/netcoreapp3.1/Arguments.AssemblyInfo.cs
+/home/galina/Документы/c#/book_C8_netcore3/Chapter02/Arguments/obj/Debug/netcoreapp3.1/Arguments.csproj.CoreCompileInputs.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter02/Arguments/obj/Debug/netcoreapp3.1/Arguments.dll
+/home/galina/Документы/c#/book_C8_netcore3/Chapter02/Arguments/obj/Debug/netcoreapp3.1/Arguments.pdb
+/home/galina/Документы/c#/book_C8_netcore3/Chapter02/Arguments/obj/Debug/netcoreapp3.1/Arguments.genruntimeconfig.cache

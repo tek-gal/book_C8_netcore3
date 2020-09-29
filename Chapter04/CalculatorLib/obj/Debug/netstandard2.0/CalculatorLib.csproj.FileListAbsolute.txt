@@ -1,0 +1,9 @@
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/CalculatorLib/bin/Debug/netstandard2.0/CalculatorLib.deps.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/CalculatorLib/bin/Debug/netstandard2.0/CalculatorLib.dll
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/CalculatorLib/bin/Debug/netstandard2.0/CalculatorLib.pdb
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/CalculatorLib/obj/Debug/netstandard2.0/CalculatorLib.csprojAssemblyReference.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/CalculatorLib/obj/Debug/netstandard2.0/CalculatorLib.AssemblyInfoInputs.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/CalculatorLib/obj/Debug/netstandard2.0/CalculatorLib.AssemblyInfo.cs
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/CalculatorLib/obj/Debug/netstandard2.0/CalculatorLib.csproj.CoreCompileInputs.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/CalculatorLib/obj/Debug/netstandard2.0/CalculatorLib.dll
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/CalculatorLib/obj/Debug/netstandard2.0/CalculatorLib.pdb

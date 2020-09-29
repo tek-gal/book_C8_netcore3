@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "wzbflnTT3/wLie1YArBA2BSOB4TuQg+KdnfAx9j/iD68yKYEGJiQ/1mx1/uyj/SnoXYmxG0o/Yf1874057bQiQ==",
+  "success": true,
+  "projectFilePath": "/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Instrumenting/Instrumenting.csproj",
+  "expectedPackageFiles": [
+    "/home/galina/.nuget/packages/microsoft.extensions.configuration/3.1.8/microsoft.extensions.configuration.3.1.8.nupkg.sha512",
+    "/home/galina/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.8/microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "/home/galina/.nuget/packages/microsoft.extensions.configuration.binder/3.1.8/microsoft.extensions.configuration.binder.3.1.8.nupkg.sha512",
+    "/home/galina/.nuget/packages/microsoft.extensions.configuration.fileextensions/3.1.8/microsoft.extensions.configuration.fileextensions.3.1.8.nupkg.sha512",
+    "/home/galina/.nuget/packages/microsoft.extensions.configuration.json/3.1.8/microsoft.extensions.configuration.json.3.1.8.nupkg.sha512",
+    "/home/galina/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.1.8/microsoft.extensions.fileproviders.abstractions.3.1.8.nupkg.sha512",
+    "/home/galina/.nuget/packages/microsoft.extensions.fileproviders.physical/3.1.8/microsoft.extensions.fileproviders.physical.3.1.8.nupkg.sha512",
+    "/home/galina/.nuget/packages/microsoft.extensions.filesystemglobbing/3.1.8/microsoft.extensions.filesystemglobbing.3.1.8.nupkg.sha512",
+    "/home/galina/.nuget/packages/microsoft.extensions.primitives/3.1.8/microsoft.extensions.primitives.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

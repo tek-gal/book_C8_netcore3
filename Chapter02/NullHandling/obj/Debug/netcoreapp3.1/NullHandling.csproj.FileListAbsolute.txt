@@ -1,0 +1,13 @@
+/home/galina/Документы/c#/book_C8_netcore3/Chapter02/NullHandling/bin/Debug/netcoreapp3.1/NullHandling
+/home/galina/Документы/c#/book_C8_netcore3/Chapter02/NullHandling/bin/Debug/netcoreapp3.1/NullHandling.deps.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter02/NullHandling/bin/Debug/netcoreapp3.1/NullHandling.runtimeconfig.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter02/NullHandling/bin/Debug/netcoreapp3.1/NullHandling.runtimeconfig.dev.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter02/NullHandling/bin/Debug/netcoreapp3.1/NullHandling.dll
+/home/galina/Документы/c#/book_C8_netcore3/Chapter02/NullHandling/bin/Debug/netcoreapp3.1/NullHandling.pdb
+/home/galina/Документы/c#/book_C8_netcore3/Chapter02/NullHandling/obj/Debug/netcoreapp3.1/NullHandling.csprojAssemblyReference.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter02/NullHandling/obj/Debug/netcoreapp3.1/NullHandling.AssemblyInfoInputs.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter02/NullHandling/obj/Debug/netcoreapp3.1/NullHandling.AssemblyInfo.cs
+/home/galina/Документы/c#/book_C8_netcore3/Chapter02/NullHandling/obj/Debug/netcoreapp3.1/NullHandling.csproj.CoreCompileInputs.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter02/NullHandling/obj/Debug/netcoreapp3.1/NullHandling.dll
+/home/galina/Документы/c#/book_C8_netcore3/Chapter02/NullHandling/obj/Debug/netcoreapp3.1/NullHandling.pdb
+/home/galina/Документы/c#/book_C8_netcore3/Chapter02/NullHandling/obj/Debug/netcoreapp3.1/NullHandling.genruntimeconfig.cache

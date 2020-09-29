@@ -1,0 +1,13 @@
+/home/galina/Документы/c#/book_C8_netcore3/Chapter03/CastingConverting/bin/Debug/netcoreapp3.1/CastingConverting
+/home/galina/Документы/c#/book_C8_netcore3/Chapter03/CastingConverting/bin/Debug/netcoreapp3.1/CastingConverting.deps.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter03/CastingConverting/bin/Debug/netcoreapp3.1/CastingConverting.runtimeconfig.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter03/CastingConverting/bin/Debug/netcoreapp3.1/CastingConverting.runtimeconfig.dev.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter03/CastingConverting/bin/Debug/netcoreapp3.1/CastingConverting.dll
+/home/galina/Документы/c#/book_C8_netcore3/Chapter03/CastingConverting/bin/Debug/netcoreapp3.1/CastingConverting.pdb
+/home/galina/Документы/c#/book_C8_netcore3/Chapter03/CastingConverting/obj/Debug/netcoreapp3.1/CastingConverting.csprojAssemblyReference.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter03/CastingConverting/obj/Debug/netcoreapp3.1/CastingConverting.AssemblyInfoInputs.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter03/CastingConverting/obj/Debug/netcoreapp3.1/CastingConverting.AssemblyInfo.cs
+/home/galina/Документы/c#/book_C8_netcore3/Chapter03/CastingConverting/obj/Debug/netcoreapp3.1/CastingConverting.csproj.CoreCompileInputs.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter03/CastingConverting/obj/Debug/netcoreapp3.1/CastingConverting.dll
+/home/galina/Документы/c#/book_C8_netcore3/Chapter03/CastingConverting/obj/Debug/netcoreapp3.1/CastingConverting.pdb
+/home/galina/Документы/c#/book_C8_netcore3/Chapter03/CastingConverting/obj/Debug/netcoreapp3.1/CastingConverting.genruntimeconfig.cache

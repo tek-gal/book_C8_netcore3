@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "Operators"
+		},
+		{
+			"path": "CastingConverting"
+		},
+		{
+			"path": "CheckingForOverflow"
+		},
+		{
+			"path": "Exercises"
+		}
+	],
+	"settings": {}
+}

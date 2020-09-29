@@ -1,0 +1,16 @@
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Dumping/bin/Debug/netcoreapp3.1/Dumping
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Dumping/bin/Debug/netcoreapp3.1/Dumping.deps.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Dumping/bin/Debug/netcoreapp3.1/Dumping.runtimeconfig.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Dumping/bin/Debug/netcoreapp3.1/Dumping.runtimeconfig.dev.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Dumping/bin/Debug/netcoreapp3.1/Dumping.dll
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Dumping/bin/Debug/netcoreapp3.1/Dumping.pdb
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Dumping/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Dumping/bin/Debug/netcoreapp3.1/SharpPad.dll
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Dumping/obj/Debug/netcoreapp3.1/Dumping.csprojAssemblyReference.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Dumping/obj/Debug/netcoreapp3.1/Dumping.AssemblyInfoInputs.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Dumping/obj/Debug/netcoreapp3.1/Dumping.AssemblyInfo.cs
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Dumping/obj/Debug/netcoreapp3.1/Dumping.csproj.CoreCompileInputs.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Dumping/obj/Debug/netcoreapp3.1/Dumping.csproj.CopyComplete
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Dumping/obj/Debug/netcoreapp3.1/Dumping.dll
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Dumping/obj/Debug/netcoreapp3.1/Dumping.pdb
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Dumping/obj/Debug/netcoreapp3.1/Dumping.genruntimeconfig.cache

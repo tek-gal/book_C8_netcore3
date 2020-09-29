@@ -1,0 +1,13 @@
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Instrumenting/bin/Release/netcoreapp3.1/Instrumenting
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Instrumenting/bin/Release/netcoreapp3.1/Instrumenting.deps.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Instrumenting/bin/Release/netcoreapp3.1/Instrumenting.runtimeconfig.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Instrumenting/bin/Release/netcoreapp3.1/Instrumenting.runtimeconfig.dev.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Instrumenting/bin/Release/netcoreapp3.1/Instrumenting.dll
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Instrumenting/bin/Release/netcoreapp3.1/Instrumenting.pdb
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Instrumenting/obj/Release/netcoreapp3.1/Instrumenting.csprojAssemblyReference.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Instrumenting/obj/Release/netcoreapp3.1/Instrumenting.AssemblyInfoInputs.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Instrumenting/obj/Release/netcoreapp3.1/Instrumenting.AssemblyInfo.cs
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Instrumenting/obj/Release/netcoreapp3.1/Instrumenting.csproj.CoreCompileInputs.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Instrumenting/obj/Release/netcoreapp3.1/Instrumenting.dll
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Instrumenting/obj/Release/netcoreapp3.1/Instrumenting.pdb
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Instrumenting/obj/Release/netcoreapp3.1/Instrumenting.genruntimeconfig.cache

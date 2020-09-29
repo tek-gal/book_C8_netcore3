@@ -1,0 +1,13 @@
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Debugging/bin/Debug/netcoreapp3.1/Debugging
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Debugging/bin/Debug/netcoreapp3.1/Debugging.deps.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Debugging/bin/Debug/netcoreapp3.1/Debugging.runtimeconfig.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Debugging/bin/Debug/netcoreapp3.1/Debugging.runtimeconfig.dev.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Debugging/bin/Debug/netcoreapp3.1/Debugging.dll
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Debugging/bin/Debug/netcoreapp3.1/Debugging.pdb
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Debugging/obj/Debug/netcoreapp3.1/Debugging.csprojAssemblyReference.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Debugging/obj/Debug/netcoreapp3.1/Debugging.AssemblyInfoInputs.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Debugging/obj/Debug/netcoreapp3.1/Debugging.AssemblyInfo.cs
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Debugging/obj/Debug/netcoreapp3.1/Debugging.csproj.CoreCompileInputs.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Debugging/obj/Debug/netcoreapp3.1/Debugging.dll
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Debugging/obj/Debug/netcoreapp3.1/Debugging.pdb
+/home/galina/Документы/c#/book_C8_netcore3/Chapter04/Debugging/obj/Debug/netcoreapp3.1/Debugging.genruntimeconfig.cache

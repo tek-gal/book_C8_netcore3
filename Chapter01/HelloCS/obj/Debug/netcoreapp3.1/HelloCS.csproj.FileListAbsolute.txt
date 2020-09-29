@@ -1,0 +1,13 @@
+/home/galina/Документы/c#/book_C8_netcore3/Chapter01/HelloCS/bin/Debug/netcoreapp3.1/HelloCS
+/home/galina/Документы/c#/book_C8_netcore3/Chapter01/HelloCS/bin/Debug/netcoreapp3.1/HelloCS.deps.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter01/HelloCS/bin/Debug/netcoreapp3.1/HelloCS.runtimeconfig.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter01/HelloCS/bin/Debug/netcoreapp3.1/HelloCS.runtimeconfig.dev.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter01/HelloCS/bin/Debug/netcoreapp3.1/HelloCS.dll
+/home/galina/Документы/c#/book_C8_netcore3/Chapter01/HelloCS/bin/Debug/netcoreapp3.1/HelloCS.pdb
+/home/galina/Документы/c#/book_C8_netcore3/Chapter01/HelloCS/obj/Debug/netcoreapp3.1/HelloCS.csprojAssemblyReference.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter01/HelloCS/obj/Debug/netcoreapp3.1/HelloCS.AssemblyInfoInputs.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter01/HelloCS/obj/Debug/netcoreapp3.1/HelloCS.AssemblyInfo.cs
+/home/galina/Документы/c#/book_C8_netcore3/Chapter01/HelloCS/obj/Debug/netcoreapp3.1/HelloCS.csproj.CoreCompileInputs.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter01/HelloCS/obj/Debug/netcoreapp3.1/HelloCS.dll
+/home/galina/Документы/c#/book_C8_netcore3/Chapter01/HelloCS/obj/Debug/netcoreapp3.1/HelloCS.pdb
+/home/galina/Документы/c#/book_C8_netcore3/Chapter01/HelloCS/obj/Debug/netcoreapp3.1/HelloCS.genruntimeconfig.cache

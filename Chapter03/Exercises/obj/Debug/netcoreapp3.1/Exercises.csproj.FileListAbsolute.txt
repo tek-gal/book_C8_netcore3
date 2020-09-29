@@ -1,0 +1,13 @@
+/home/galina/Документы/c#/book_C8_netcore3/Chapter03/Exercises/obj/Debug/netcoreapp3.1/Exercises.csprojAssemblyReference.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter03/Exercises/obj/Debug/netcoreapp3.1/Exercises.AssemblyInfoInputs.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter03/Exercises/obj/Debug/netcoreapp3.1/Exercises.AssemblyInfo.cs
+/home/galina/Документы/c#/book_C8_netcore3/Chapter03/Exercises/obj/Debug/netcoreapp3.1/Exercises.csproj.CoreCompileInputs.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter03/Exercises/bin/Debug/netcoreapp3.1/Exercises
+/home/galina/Документы/c#/book_C8_netcore3/Chapter03/Exercises/bin/Debug/netcoreapp3.1/Exercises.deps.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter03/Exercises/bin/Debug/netcoreapp3.1/Exercises.runtimeconfig.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter03/Exercises/bin/Debug/netcoreapp3.1/Exercises.runtimeconfig.dev.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter03/Exercises/bin/Debug/netcoreapp3.1/Exercises.dll
+/home/galina/Документы/c#/book_C8_netcore3/Chapter03/Exercises/bin/Debug/netcoreapp3.1/Exercises.pdb
+/home/galina/Документы/c#/book_C8_netcore3/Chapter03/Exercises/obj/Debug/netcoreapp3.1/Exercises.dll
+/home/galina/Документы/c#/book_C8_netcore3/Chapter03/Exercises/obj/Debug/netcoreapp3.1/Exercises.pdb
+/home/galina/Документы/c#/book_C8_netcore3/Chapter03/Exercises/obj/Debug/netcoreapp3.1/Exercises.genruntimeconfig.cache
