@@ -1,0 +1,16 @@
+/home/galina/Документы/c#/book_C8_netcore3/Chapter05/PeopleApp/bin/Debug/netcoreapp3.1/PeopleApp
+/home/galina/Документы/c#/book_C8_netcore3/Chapter05/PeopleApp/bin/Debug/netcoreapp3.1/PeopleApp.deps.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter05/PeopleApp/bin/Debug/netcoreapp3.1/PeopleApp.runtimeconfig.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter05/PeopleApp/bin/Debug/netcoreapp3.1/PeopleApp.runtimeconfig.dev.json
+/home/galina/Документы/c#/book_C8_netcore3/Chapter05/PeopleApp/bin/Debug/netcoreapp3.1/PeopleApp.dll
+/home/galina/Документы/c#/book_C8_netcore3/Chapter05/PeopleApp/bin/Debug/netcoreapp3.1/PeopleApp.pdb
+/home/galina/Документы/c#/book_C8_netcore3/Chapter05/PeopleApp/bin/Debug/netcoreapp3.1/PacktLibrary.dll
+/home/galina/Документы/c#/book_C8_netcore3/Chapter05/PeopleApp/bin/Debug/netcoreapp3.1/PacktLibrary.pdb
+/home/galina/Документы/c#/book_C8_netcore3/Chapter05/PeopleApp/obj/Debug/netcoreapp3.1/PeopleApp.csprojAssemblyReference.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter05/PeopleApp/obj/Debug/netcoreapp3.1/PeopleApp.AssemblyInfoInputs.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter05/PeopleApp/obj/Debug/netcoreapp3.1/PeopleApp.AssemblyInfo.cs
+/home/galina/Документы/c#/book_C8_netcore3/Chapter05/PeopleApp/obj/Debug/netcoreapp3.1/PeopleApp.csproj.CoreCompileInputs.cache
+/home/galina/Документы/c#/book_C8_netcore3/Chapter05/PeopleApp/obj/Debug/netcoreapp3.1/PeopleApp.csproj.CopyComplete
+/home/galina/Документы/c#/book_C8_netcore3/Chapter05/PeopleApp/obj/Debug/netcoreapp3.1/PeopleApp.dll
+/home/galina/Документы/c#/book_C8_netcore3/Chapter05/PeopleApp/obj/Debug/netcoreapp3.1/PeopleApp.pdb
+/home/galina/Документы/c#/book_C8_netcore3/Chapter05/PeopleApp/obj/Debug/netcoreapp3.1/PeopleApp.genruntimeconfig.cache
